@@ -1,0 +1,5 @@
+## Esto lo hago para ajustar el texto a pantalla
+set softwrap
+## Esto numera las líneas
+set linenumbers 
+
